@@ -4,3 +4,8 @@ Quizes to solve during the course: "Python and Django Full Stack Web Developer B
 assesment 1 solution:
 <br>
 <img src="images/asses1.png">
+
+
+assesment 2 solution:
+<br>
+<img src="images/asses2.png">
